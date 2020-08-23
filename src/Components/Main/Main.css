@@ -1,0 +1,20 @@
+.main {
+  background: #282c34;
+  color: white;
+  height: 100vh;
+}
+
+.profile-image {
+  padding: 20px;
+  border-radius: 25%;
+  width: 300px;
+}
+
+.heading-text {
+  font-size: 100px;
+  font-weight: 700;
+}
+
+.typist-text {
+  font-size: 50px;
+}
